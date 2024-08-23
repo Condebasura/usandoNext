@@ -1,4 +1,5 @@
 export default function BlogLayout(
+    // Creacion de layout en cada ruta para cambiar el html a mostrar
     {children}:{
     children: React.ReactNode
     }
