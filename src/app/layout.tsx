@@ -38,6 +38,11 @@ export default function RootLayout({
               <Link href="/productos">Productos</Link>
               -
               <Link href="/login">Iniciar sesion</Link>
+              -
+              <Link href="/registro">Registro</Link>
+              -
+              <Link href="/password">Recuperar Password</Link>
+
             </nav>
           </header>
 
