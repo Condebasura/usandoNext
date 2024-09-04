@@ -9,6 +9,7 @@ export default function ProfileLayout(
         return ( // Crear rutas relativas 
             <>
             <h2>Rutas rellativas a la cuenta del Usuario</h2>
+            <h3>Explicando la diferencia entre layout y template</h3>
             {children}
             <input
             type="text"
