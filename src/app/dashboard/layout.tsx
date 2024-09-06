@@ -3,7 +3,7 @@ children,
 analytics,
 chat, 
 video
-
+// Creacion de rutas o componentes que se renderizan en  paralelo para un dashbord
 }:{
     children: React.ReactNode;
     analytics: React.ReactNode;
