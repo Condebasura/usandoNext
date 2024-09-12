@@ -1,14 +1,14 @@
 export const products =[
     {
         id:1, 
-        product: "producto 1",
+        name: "producto 1",
     },
     {
         id:2, 
-        product: "producto 2",
+        name: "producto 2",
     },
     {
         id:3, 
-        product: "producto 3",
+        name: "producto 3",
     },
 ]
